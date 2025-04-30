@@ -25,7 +25,7 @@ To run the project locally:
 
 ```sh
 # Install dependencies
-npm install
+npm install or yarn install
 
 # Start the development server
 npm run dev
