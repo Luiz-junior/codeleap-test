@@ -1,6 +1,8 @@
 
 # CodeLeap Network Test
 
+[Access the live app](https://codeleapnetworktest.netlify.app/)
+
 ## Features
 
 - User sign-in with username
